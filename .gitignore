@@ -2,6 +2,7 @@ __pycache__
 .ipynb_checkpoints/
 *.ps
 *.svg
+.conda/
 .DS_Store
 notebooks
 KEY*.ipynb
